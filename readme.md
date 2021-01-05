@@ -1,7 +1,9 @@
 
 # Polr Monitoring Stack
 
-This project uses the kube-prometheus project (located at <https://github.com/prometheus-operator/kube-prometheus>)
+This report is a development repo for the Polr Kubernetes monitoring stack.
+
+This project uses the kube-prometheus project (located at <https://github.com/prometheus-operator/kube-prometheus>).
 
 ## Dependencies
 
