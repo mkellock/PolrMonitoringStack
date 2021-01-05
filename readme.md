@@ -1,7 +1,7 @@
 
 # Polr Monitoring Stack
 
-This report is a development repo for the Polr Kubernetes monitoring stack.
+This report is a development repo for the Polr Kubernetes monitoring stack for deployment into the <https://github.com/mkellock/MonitoringPOC> repo
 
 This project uses the kube-prometheus project (located at <https://github.com/prometheus-operator/kube-prometheus>).
 
